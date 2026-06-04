@@ -1,0 +1,11 @@
+---
+title: StartupScope AI          # Display name on HF Spaces
+emoji: 🚀                       # Card icon on HF hub
+colorFrom: blue                 # Gradient start color
+colorTo: purple                 # Gradient end color
+sdk: streamlit                  # Framework you're using
+sdk_version: "1.28.0"          # Streamlit version
+python_version: "3.12"          # Python version requirement
+app_file: app.py                # Entry point file
+pinned: false                   # Whether to pin the space
+---
